@@ -1,0 +1,8 @@
+This game prototype was created in Visual Studio using the Pygame library. I initially followed along with this tutorial 
+at 'KidsCanCode' to learn the ins and outs of Pygame:
+
+http://kidscancode.org/blog/2016/08/pygame_shmup_part_1/
+
+After building the basic game loop, I iterate on the concept to make the projecty my own, using custom art assets and altering
+the game logic. This is still a work in progress as there are still features I'd like to implement such as a win condition,
+new levels, stronger enemy types, upgradable weapons, etc. More to come!
